@@ -1,5 +1,5 @@
 {
-    "image": "homeassistant/{arch}-hassio-cli",
+    "image": "b46ha/{arch}-hassio-cli",
     "build_from": {
         "aarch64": "homeassistant/aarch64-base:3.12",
         "armhf": "homeassistant/armhf-base:3.12",
